@@ -1,4 +1,4 @@
-# ⚡ WIFITE — Hacker Edition v2.0 ⚡
+# ⚡ WIFITE for windows ⚡
 
 An automated WiFi discovery, testing, and connection utility for Windows featuring a cyberpunk/terminal-hacker interface.
 
